@@ -1,0 +1,2 @@
+# mgholEncrypt
+تشفير ملفات bash
